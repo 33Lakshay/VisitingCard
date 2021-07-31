@@ -41,7 +41,7 @@ background: radial-gradient(rgba(52,72,209,255) 0%, #fff 400%);
 .main-box{
   height: 352px;
   width: 480px;
-  background-color: rgb(219,230,253,0.1);
+  background-color: rgba(219,230,253,0.1);
   border-radius: 20px;
   margin-top: 12.5%;
   margin-left: 33%;
